@@ -1,2 +1,2 @@
-age = input('You Are 16 Years Old!')
-print(age)
+age = input('How old are you')
+print('You Are', age ,'Years Old!')
