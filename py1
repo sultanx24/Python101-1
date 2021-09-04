@@ -1,0 +1,2 @@
+age = input('You Are 16 Years Old!')
+print(age)
